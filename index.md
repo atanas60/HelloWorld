@@ -7,4 +7,4 @@ I am really exited to blog my journey on GitHub.com.
 * Get in Touch
 <ul>
 <li> <a href="https://instagram.com/Hey Naso">Instagram</a></li>
-<li> <a href="https://github.com/atanas60.githin.io">GitHub</a></li>
+<li> <a href="https://github.com/atanas60.github.io">GitHub</a></li>
