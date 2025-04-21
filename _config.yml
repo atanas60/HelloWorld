@@ -1,1 +1,6 @@
-theme: time-machine
+title: Atanas Atanassov
+description: A blog about software development, technology, and life.
+github_username: atanas60
+instagram_username: hey_naso
+chess_username: babayoca
+theme: jekyll-theme-macayman
